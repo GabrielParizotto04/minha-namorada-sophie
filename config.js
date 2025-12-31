@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Próximo ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Voc~e vai estar comigo pro resto de nossas vidas? 🌹", // The big question!
+            text: "Você vai estar comigo pro resto de nossas vidas? 🌹", // The big question!
             yesBtn: "Sim!",                                             // Text for "Yes" button
             noBtn: "Não"                                                 // Text for "No" button
         }
